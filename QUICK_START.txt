@@ -1,0 +1,159 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                    🚀 QUICK START GUIDE                          ║
+║              Brasha Moments Wellness Website                     ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📦 YOU HAVE EVERYTHING YOU NEED!
+Your professional website is 100% ready to deploy.
+
+⏱️  TIME TO LAUNCH: 5 MINUTES
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 DEPLOYMENT IN 4 EASY STEPS:
+
+1️⃣  GO TO VERCEL
+   👉 Visit: https://vercel.com
+   👉 Click "Sign Up" (it's FREE!)
+   👉 Use GitHub or Email to create account
+
+2️⃣  UPLOAD YOUR WEBSITE
+   👉 Click "Add New" → "Project"
+   👉 Drag ALL files from this folder onto the page
+   👉 Or click "Browse" and select all files
+
+3️⃣  DEPLOY
+   👉 Project name: brasha-moments-wellness
+   👉 Click "Deploy"
+   👉 Wait 30-60 seconds ⏳
+
+4️⃣  CELEBRATE! 🎉
+   👉 Your website is LIVE!
+   👉 URL: https://brasha-moments-wellness.vercel.app
+   👉 Share it with the world!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 WHAT'S IN THIS FOLDER:
+
+✅ index.html          → Your complete website
+✅ css/style.css       → Beautiful styling
+✅ js/main.js          → Interactive features
+✅ images/             → Logo + CEO photo + Gallery (8 images)
+✅ vercel.json         → Deployment config
+✅ README.md           → Technical documentation
+✅ DEPLOYMENT_GUIDE.md → Detailed instructions
+✅ QUICK_START.txt     → This file!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 TIPS:
+
+✓ Start with FREE Vercel hosting (no credit card needed)
+✓ Custom domain (like brashamoments.co.ke) can be added later
+✓ Website works perfectly on phones, tablets, and computers
+✓ All images are optimized and ready to use
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 WHAT YOU GET:
+
+🌟 Professional Design        ✅ Mobile-Friendly
+🌟 CEO Profile with Photo     ✅ Gallery Section
+🌟 Service Listings          ✅ Pricing Information
+🌟 Appointment Form          ✅ 24/7 Contact Info
+🌟 Emergency Banner          ✅ Social Media Links
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🆘 NEED HELP?
+
+📖 Read: DEPLOYMENT_GUIDE.md (detailed step-by-step)
+🌐 Vercel Support: https://vercel.com/help
+📧 Email: brashamomentswellness@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎊 YOUR WEBSITE FEATURES:
+
+Home Page:
+   • Powerful hero section with call-to-action
+   • Professional tagline and messaging
+
+About Us:
+   • Mission and vision statement
+   • Dr. Okello Odhiambo - CEO profile with photo
+   • Space for board members
+
+Services:
+   • Psychiatric Services
+   • Psychological Counseling
+   • Drug Addiction Treatment
+   • Substance Abuse Counseling
+   • Group Therapy Programs
+   • Family Support Services
+
+Gallery:
+   • 6 professional images
+   • Medical consultation photos
+   • Treatment program visuals
+   • Hover effects and descriptions
+
+Pricing:
+   • Individual Counseling: KSh 3,500/session
+   • Comprehensive Program: KSh 45,000/month
+   • Residential Treatment: KSh 120,000/month
+   • Transparent, Kenya-specific pricing
+
+Contact:
+   • Phone: +254 763 400 917
+   • Email: brashamomentswellness@gmail.com
+   • LinkedIn profile linked
+   • Appointment booking form
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔥 OPTIONAL UPGRADES (Later):
+
+Week 1:
+   □ Add custom domain (.co.ke or .com)
+   □ Set up professional email (info@brashamoments.co.ke)
+   □ Share on social media
+
+Month 1:
+   □ Google Analytics setup
+   □ SEO optimization
+   □ Patient testimonials section
+
+Month 3:
+   □ Blog section
+   □ M-Pesa payment integration
+   □ Online booking system
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💰 COST:
+
+NOW:        KSh 0/month (100% FREE!)
+OPTIONAL:   Custom domain ~KSh 125/month
+PREMIUM:    Email + Domain ~KSh 825/month
+
+Start FREE, upgrade when ready! 🚀
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👉 READY? LET'S GO!
+
+1. Open https://vercel.com
+2. Sign up
+3. Upload this folder
+4. Deploy
+5. DONE! ✅
+
+Your professional mental health center website will be LIVE in 
+under 5 minutes!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Contact: +254 763 400 917 | brashamomentswellness@gmail.com
+© 2026 Brasha Moments Wellness. All Rights Reserved.

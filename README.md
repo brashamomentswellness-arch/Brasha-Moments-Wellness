@@ -86,6 +86,5 @@ You can add domains like:
 
 ## 📝 License
 © 2026 Brasha Moments Wellness. All rights reserved.
-
 ## 🔧 Technical Support
 For technical issues with deployment, contact Vercel support or refer to [Vercel Documentation](https://vercel.com/docs).
